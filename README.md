@@ -1,5 +1,5 @@
 # stevenUniverseBingo
-Blank Templates for Steven Universe Bingo by Michelle Netto
+Blank Templates for Steven Universe Bingo by Michelle Netto https://github.com/mimnetto/stevenUniverseBingo/
 
 Steven Universe™ was created by Rebecca Sugar and is a trademark of Cartoon Network. 
 Templates and Characters are FREE and not being sold. 
